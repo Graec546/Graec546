@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Graec546 / Nemo Baert
 - 👀 I’m interested in reading, climbing, music, nerd stuff, cheese, ..
-- 🌱 I’m currently learning HTML/Javascript/PHP/CSS/Laravel/React
+- 🌱 I’m currently learning PHP/Laravel/Rust
 - ⚡ Fun fact: I love coding but I live for music
 
 <!---
